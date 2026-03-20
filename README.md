@@ -24,6 +24,3 @@ cd happiness-eda
 pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 \`\`\`
-
-## Dataset
-[World Happiness Report on Kaggle](https://www.kaggle.com/...)
