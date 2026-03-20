@@ -5,7 +5,7 @@ Analysis of the UN World Happiness Report dataset (147 countries, 2025)
 to identify the key drivers of national happiness scores.
 
 ## Key Findings
-- GDP per capita is the strongest predictor (r = 0.78)
+- Social support is the strongest predictor (r = 0.812)
 - Nepal ranks #92 — weakest factor: GDP per capita
 - Western Europe leads; Sub-Saharan Africa trails
 - Social support dominates the freedom
