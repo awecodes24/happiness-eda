@@ -6,7 +6,7 @@ to identify the key drivers of national happiness scores.
 
 ## Key Findings
 - Social support is the strongest predictor (r = 0.812)
-- Nepal ranks #92 — weakest factor: GDP per capita
+- Nepal ranks #99 — weakest factor: GDP per capita
 - Western Europe leads; Sub-Saharan Africa trails
 - Social support dominates the freedom
 
